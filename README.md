@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Assekops
+- 👋 Hi, I’m @Assefa_Tadesse
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate as far as my knowledge is capable 

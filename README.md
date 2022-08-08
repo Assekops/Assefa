@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Assefa_Tadesse
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning AWS 
-- 💞️ I’m looking to collaborate as far as my knowledge is capable 
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning cloud computing in AWS 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me assekopsynwa@gmail.com 
 
 <!---

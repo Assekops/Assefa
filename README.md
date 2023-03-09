@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Assefa_Tadesse
 - 👀 I’m interested in Programming 
-- 💞️ Full stack developer
+- 💞️ Full stack web developer
 - #  Web develpment
 - 🌱 I’m currently learning cloud computing in AWS 
 - 📫 How to reach me assekopsynwa@gmail.com 
